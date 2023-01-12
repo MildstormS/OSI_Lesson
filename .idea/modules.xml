@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/OSI_LE_SERVER-main/OSI_LE_SERVER.iml" filepath="$PROJECT_DIR$/OSI_LE_SERVER-main/OSI_LE_SERVER.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/OSI_Lesson.iml" filepath="$PROJECT_DIR$/.idea/OSI_Lesson.iml" />
+    </modules>
+  </component>
+</project>
